@@ -1,0 +1,43 @@
+body{
+    font-family: arial;
+    background-color: #333;
+    color: #F5F5F5;
+    margin:0;
+}
+
+h1{
+    margin:0;
+}
+
+.menu{
+    
+    padding: 40px;
+    text-align: center;
+
+}
+
+.cor-secundaria{
+    color: #ccc;
+}
+
+div{
+    background-color: #555;
+    border-radius: 30px;
+    
+}
+
+.conteudo{
+    margin: 200px;
+    margin-top: 30px;
+    padding: 30px;
+
+}
+
+img{
+    border-radius: 100%;
+}
+ .centralizar-conteudo{
+    text-align: center;
+ }
+
+

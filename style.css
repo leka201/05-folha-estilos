@@ -1,0 +1,86 @@
+body{
+    background-color: white;
+    margin: 0;
+    
+}
+
+p{
+    color:black
+}
+
+button{
+    background-color:greenyellow;
+    padding-right :30px; 
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 50px;
+}
+
+.class{
+    font-size: 50px;
+}
+
+h1{
+    color:black;
+    background-color: yellow;
+    padding:30px;
+    margin:0;
+    margin-bottom: 30px;
+
+    
+}
+
+.button-yes{
+    background-color: green;
+}
+
+.button-yes:hover{
+    background-color: darkgreen;
+   
+}
+
+.button-no{
+    background-color: red;
+}
+
+.button-no:hover{
+    background-color: darkred;
+    
+}
+
+button{
+    color: aliceblue;
+    border:none;
+    border-radius: 100%;
+}
+
+button:hover{
+    
+    cursor: pointer;
+    transition:0.3s;
+    
+    
+}
+
+
+h1:hover{
+    cursor: pointer;
+}
+
+span{
+    color: orangered;
+}
+
+.azul{
+    color:blue;
+}
+
+.verde{
+    color: green;
+}
+
+div{
+    background-color: aquamarine;
+}
+
